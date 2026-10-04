@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T06:52:03Z",
+  "updated_at": "2026-10-04T15:30:00Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -6327,13 +6327,33 @@
       "listed_at": "2026-09-30T06:49:37.000Z",
       "first_seen": "2026-09-30T06:49:37.000Z",
       "last_seen": "2026-09-30T06:49:37.000Z"
+    },
+    {
+      "id": "montanha-zero-day",
+      "title": "Montanha: Zero Day",
+      "description": "Cyberpunk Mega Man X-style 2D platformer PWA built with Claude Opus 5.5 and Claude Code on top of a central engineering harness. Features 3 stages, two playable heroes (Montanha with jetpack and hacking watch; Gle with light boots and buster gauntlet), pure ES modules, synthesized WebAudio OST, Artlist-generated HD art, and offline play.",
+      "play_url": "https://tiagovilasboas.github.io/montanha-zero-day/",
+      "source_url": "https://github.com/tiagovilasboas/montanha-zero-day",
+      "found_via": "Creator repository & DEV.to engineering case study",
+      "found_via_network": "github",
+      "screenshot_path": "screenshots/270-montanha-zero-day.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Polished cyberpunk key art showing heroes overlooking futuristic skyline with celestial ring, robotic assistant, and vibrant neon palette.",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "made_with": "opus-5.5",
+      "remote_likes": 0,
+      "likes_source": "github",
+      "video_path": null,
+      "video_source": null,
+      "videos": []
     }
   ],
   "totals": {
-    "games": 270,
+    "games": 271,
     "by_made_with": {
       "astra": 69,
-      "opus-5.5": 189,
+      "opus-5.5": 190,
       "sonnet-5.5": 11,
       "uncertain": 1
     }
